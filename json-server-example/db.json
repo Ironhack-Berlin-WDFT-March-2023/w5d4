@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "react",
+      "author": "facebook"
+    },
+    {
+      "id": 3,
+      "title": "github",
+      "author": "microsoft"
+    },
+    {
+      "title": " insomnia",
+      "author": "jan",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "body": "more content",
+      "postId": "2",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "hello from insomnia",
+    "": ""
+  }
+}
